@@ -35,28 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Bole District",
-      "country": "Ghana",
-      "date": "2023-06-20T15:56:16.133Z",
-      "notes": "",
-      "position": {
-        "lat": "8.494104537551882",
-        "lng": "-1.9335937500000002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Olague Forest Reserve",
-      "country": "Nigeria",
-      "date": "2023-06-20T15:56:39.279Z",
-      "notes": "",
-      "position": {
-        "lat": "5.725311447610156",
-        "lng": "5.163574218750001"
-      },
-      "id": 98443199
     }
   ]
 }
